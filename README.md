@@ -1,1 +1,1 @@
-# aoazklkfnqsdfnqsmkdfnmqsdnfmos
+# This project, developed during an intensive hackathon by our passionate team, demonstrates the power of Large Language Models (LLMs) in emotional intelligence. As LLM enthusiasts, we leveraged the Gemini AI model to create a sophisticated emotion analysis system.
